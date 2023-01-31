@@ -1,0 +1,40 @@
+/* div{
+    width: 500px;
+    height: 500px;
+    border-radius: 150%;
+    background-color: black;
+
+}
+.ligada {
+background-color: yellow;
+}
+
+#luz {
+    position: relative;
+}
+#roxa {
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    transform: ;
+   
+} */
+
+ul li {
+
+    cursor: pointer;
+    list-style: none;
+    background-color: brown;
+    font-size: 32px;
+
+}
+
+ul li :nth-child(odd){
+background-color: aqua;
+
+
+}
+ul li:hover{
+    background-color: beige;
+}
+
